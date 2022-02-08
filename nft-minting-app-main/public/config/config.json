@@ -1,0 +1,16 @@
+{
+  "CONTRACT_ADDRESS": "0xC70fffD1dd22a31af2a8d22236373c4042912369",
+  "SCAN_LINK": "https://ftmscan.com/address/0xc70fffd1dd22a31af2a8d22236373c4042912369",
+  "NETWORK": {
+    "NAME": "Fantom Opera",
+    "SYMBOL": "FTM",
+    "ID": 250
+  },
+  "NFT_NAME": "Women Of Fantom",
+  "SYMBOL": "WOF",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "SHOW_BACKGROUND": true
+}
